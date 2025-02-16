@@ -1,0 +1,33 @@
+Search Queries & Threat Hunting
+https://github.com/shauntdergrigorian/splunkqueries
+https://github.com/signorrayan/SplunkThreatHunting
+https://github.com/reprise99/Sentinel-Queries
+https://github.com/SlimKQL/Hunting-Queries-Detection-Rules
+https://github.com/globalbao/awesome-kql
+https://github.com/alexverboon/Azure-Threat-Research-Matrix-KQL
+https://github.com/Azure/Azure-Sentinel
+https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
+https://github.com/rod-trent/SentinelWorkbooks
+https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/sentinel/top-workbooks.md
+
+Awesome Detection Rules 
+https://github.com/jatrost/awesome-detection-rules
+https://github.com/archanchoudhury/Detection-Rule-Dump
+https://github.com/SigmaHQ/sigma
+https://github.com/javiersoriano/sentinel-all-in-one
+
+
+Micellaneous Resources(Use cases):
+https://github.com/fabacab/awesome-cybersecurity-blueteam
+https://github.com/EvolvingSysadmin/Blue-Team-Toolkit
+https://github.com/elastic/detection-rules
+https://github.com/Xboarder56/QRCE-Rules
+https://github.com/mthcht/ThreatHunting-Keywords
+YARA Rules: https://github.com/threat-hunting/awesome_Threat-Hunting
+https://github.com/ashwin-patil/threat-hunting-with-notebooks
+https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/threat-hunting
+https://github.com/0x4D31/awesome-threat-detection
+https://github.com/cyb3rmik3/KQL-threat-hunting-queries
+https://documentation.wazuh.com/current/getting-started/use-cases/threat-hunting.html
+FortiSoar: https://github.com/fortinet-fortisoar/solution-pack-mitre-attack-threat-hunting
+
