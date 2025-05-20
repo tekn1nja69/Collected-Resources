@@ -1,0 +1,173 @@
+List of Important Windows File Paths
+
+
+
+###    User Profiles and Artifacts    ###
+
+C:/Users//AppData/Local/Temp
+C:/Users//AppData/Roaming
+C:/Users//AppData/Local
+C:/Users//NTUser.dat
+C:/Documents and Settings//NTUser.dat
+C:/Users//Recent
+C:/Users//AppData/Roaming/Microsoft/Windows/Recent
+C:/Users//AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+C:/Users//AppData/Local/Microsoft/Windows/INetCache
+C:/Users//AppData/Local/CrashDumps
+C:/Users//AppData/Local/Google/Chrome/User Data/Default/History
+C:/Users//AppData/Local/Microsoft/Windows/UsrClass.dat
+
+
+
+
+###    System Hives and Registry Backups    ###
+
+C:/Windows/System32/config/SAM
+C:/Windows/System32/config/SYSTEM
+C:/Windows/System32/config/SECURITY
+C:/Windows/System32/config/SOFTWARE
+C:/Windows/System32/config/DEFAULT
+C:/Windows/System32/config/RegBack/sam
+C:/Windows/System32/config/RegBack/system
+C:/Windows/System32/config/RegBack/software
+C:/Windows/System32/config/RegBack/default
+C:/Windows/System32/config/RegBack/security
+C:/Windows/repair/system
+C:/Windows/repair/software
+C:/Windows/repair/security
+C:/Windows/repair/SAM
+
+
+
+
+###    Event Logs and Debug Logs    ###
+
+C:/Windows/System32/winevt/Logs/
+C:/Windows/debug/NetSetup.log
+C:/Windows/system32/config/AppEvent.Evt
+C:/Windows/system32/config/SecEvent.Evt
+C:/Windows/System32/LogFiles/WMI/RtBackup
+C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
+
+
+
+
+###    Scheduled Tasks and Persistence    ###
+
+C:/Windows/System32/Tasks
+C:/Windows/System32/Tasks/Microsoft
+C:/Windows/System32/Tasks/OneDrive*
+C:/Windows/System32/Tasks/At1
+C:/Windows/System32/Tasks/At*
+C:/Windows/Tasks
+Registry: HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+Registry: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+Registry: HKLM\SYSTEM\CurrentControlSet\Services
+Registry: HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks
+Registry: HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree
+
+
+
+
+###    Antivirus, Defender, and Security Logs    ###
+
+C:/ProgramData/Microsoft/Windows Defender/Scans/History/Results
+C:/ProgramData/Microsoft/Windows Defender/Support/MpCmdRun.log
+C:/ProgramData/Microsoft/Windows Defender/Support/MpTelemetry.log
+C:/ProgramData/Microsoft/Windows Defender/Support/MPLog*
+C:/ProgramData/Microsoft/Windows Defender/Definition Updates/Default/MPENGINE.DAT
+C:/ProgramData/Microsoft/Windows Defender/Definition Updates/Default/*.VDM
+C:/Program Files/Windows Defender/MpCmdRun.log
+Event Viewer: Applications and Services Logs > Microsoft > Windows > Windows Defender > Operational
+Event Viewer: Microsoft-Windows-Windows Defender/Operational
+
+
+
+
+###    Memory Dumps, Crash Dumps, Debugging    ###
+
+C:/Windows/Minidump/
+C:/Windows/MEMORY.DMP
+C:/Users//AppData/Local/CrashDumps
+C:/Windows/System32/config/SYSTEMPROFILE/AppData/Local/CrashDumps
+C:/Windows/LiveKernelReports
+C:/Windows/System32/LogFiles/Watchdog
+
+
+
+
+###    System Configs, Boot, and Drivers    ###
+
+C:/boot.ini
+C:/Windows/win.ini
+C:/WINNT/win.ini
+C:/WINDOWS/System32/drivers/etc/hosts
+C:/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml
+C:/Windows/System32/inetsrv/config/applicationHost.config
+
+
+
+
+###    Web Servers and PHP Configs    ###
+
+C:/inetpub/wwwroot/global.asa
+C:/apache/logs/access.log
+C:/apache/logs/error.log
+C:/apache/php/php.ini
+C:/xampp/apache/conf/httpd.conf
+C:/xampp/apache/bin/php.ini
+C:/xampp/apache/logs/access.log
+C:/xampp/apache/logs/error.log
+C:/php/php.ini
+C:/php4/php.ini
+C:/php5/php.ini
+C:/WINNT/php.ini
+C:/WINDOWS/php.ini
+C:/Program Files/Apache Group/Apache2/conf/httpd.conf
+C:/Program Files/Apache Group/Apache/conf/httpd.conf
+C:/Program Files/Apache Group/Apache/logs/access.log
+C:/Program Files/Apache Group/Apache/logs/error.log
+C:/Program Files (x86)/Apache Group/Apache2/conf/httpd.conf
+C:/Program Files (x86)/Apache Group/Apache/conf/httpd.conf
+C:/Program Files (x86)/Apache Group/Apache/conf/access.log
+C:/Program Files (x86)/Apache Group/Apache/conf/error.log
+
+
+
+
+###    MySQL and Database Logs    ###
+
+C:/MySQL/data/hostname.err
+C:/MySQL/data/mysql.err
+C:/MySQL/data/mysql.log
+C:/MySQL/my.cnf
+C:/MySQL/my.ini
+C:/Program Files/MySQL/data/hostname.err
+C:/Program Files/MySQL/data/mysql-bin.log
+C:/Program Files/MySQL/data/mysql.err
+C:/Program Files/MySQL/data/mysql.log
+C:/Program Files/MySQL/my.ini
+C:/Program Files/MySQL/my.cnf
+C:/Program Files/MySQL/MySQL Server 5.0/data/hostname.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+C:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+C:/Program Files/MySQL/MySQL Server 5.0/my.ini
+C:/Program Files/MySQL/MySQL Server 5.1/my.ini
+
+
+
+
+###    FileZilla and FTP Configs    ###
+
+C:/Program Files/FileZilla Server/FileZilla Server.xml
+C:/Program Files (x86)/FileZilla Server/FileZilla Server.xml
+
+
+
+
+###    Installer and Unattended Configs    ###
+
+C:/Windows/Panther/Unattended.xml
+C:/Windows/Panther/Unattend/Unattended.xml
