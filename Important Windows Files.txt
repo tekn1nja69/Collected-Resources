@@ -51,6 +51,26 @@ C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
 
 
 
+###    Repair and Backup Files    ### 
+
+
+C:/WINDOWS/Repair/SAM
+C:/Windows/repair/system
+C:/Windows/repair/software
+C:/Windows/repair/security
+C:/Windows/system32/config/AppEvent.Evt
+C:/Windows/system32/config/SecEvent.Evt
+C:/Windows/system32/config/default.sav
+C:/Windows/system32/config/security.sav
+C:/Windows/system32/config/software.sav
+C:/Windows/system32/config/system.sav
+C:/Windows/system32/config/regback/default
+C:/Windows/system32/config/regback/sam
+C:/Windows/system32/config/regback/security
+C:/Windows/system32/config/regback/system
+C:/Windows/system32/config/regback/software
+
+
 
 ###    Scheduled Tasks and Persistence    ###
 
@@ -81,6 +101,13 @@ C:/Program Files/Windows Defender/MpCmdRun.log
 Event Viewer: Applications and Services Logs > Microsoft > Windows > Windows Defender > Operational
 Event Viewer: Microsoft-Windows-Windows Defender/Operational
 
+
+
+###    Remote Desktop & Network Artifacts    ###
+
+C:\Users\<User>\Documents\Default.rdp
+C:\Windows\System32\LogFiles\Firewall\pfirewall.log
+C:\Windows\System32\LogFiles\WMI\RTBackup\
 
 
 
