@@ -2,7 +2,7 @@ List of Important Linux File Paths
 
 
 
-###            Authentication and User Accounts
+###    Authentication and User Accounts   ###
 
 /etc/passwd
 /etc/shadow
@@ -15,7 +15,7 @@ List of Important Linux File Paths
 
 
 
-###           User Profiles and History
+###    User Profiles and History    ###
 
 ~/.bash_history
 ~/.bash_logout
@@ -38,7 +38,7 @@ List of Important Linux File Paths
 
 
 
-###           SSH Keys and Configs
+###    SSH Keys and Configs    ###
 
 ~/.ssh/authorized_keys
 ~/.ssh/id_dsa
@@ -55,7 +55,7 @@ List of Important Linux File Paths
 
 
 
-###           System Configuration
+###    System Configuration    ###
 
 /etc/fstab
 /etc/modules.conf
@@ -76,7 +76,7 @@ List of Important Linux File Paths
 
 
 
-###           Scheduled Tasks
+###    Scheduled Tasks    ###
 
 /etc/cron.allow
 /etc/cron.deny
@@ -88,7 +88,7 @@ List of Important Linux File Paths
 
 
 
-###           Logging Configuration and Logs
+###    Logging Configuration and Logs    ###
 
 /etc/syslog.conf
 /etc/logrotate.d/*
@@ -109,7 +109,7 @@ List of Important Linux File Paths
 
 
 
-###           Network and Services
+###    Network and Services    ###
 
 /etc/inetd.conf
 /etc/knockd.conf
@@ -142,7 +142,7 @@ List of Important Linux File Paths
 
 
 
-###           Web Server and PHP Configs
+###    Web Server and PHP Configs    ###
 
 /etc/httpd/access.conf
 /etc/httpd/conf/httpd.conf
@@ -197,7 +197,7 @@ List of Important Linux File Paths
 
 
 
-###           Kernel and System Internals
+###    Kernel and System Internals    ###
 
 /proc/cmdline
 /proc/cpuinfo
@@ -222,7 +222,7 @@ List of Important Linux File Paths
 
 
 
-###           SSH Configuration and Keys
+###    SSH Configuration and Keys    ###
 
 /etc/ssh/ssh_config
 /etc/ssh/sshd_config
@@ -233,7 +233,7 @@ List of Important Linux File Paths
 
 
 
-###           Database Configs and Logs
+###    Database Configs and Logs    ###
 
 /etc/my.cnf
 /etc/my.conf
@@ -249,7 +249,7 @@ List of Important Linux File Paths
 
 
 
-###           Misc Configs
+###    Misc Configs    ###
 
 /etc/cups/cupsd.conf
 /etc/printcap
@@ -263,7 +263,7 @@ List of Important Linux File Paths
 
 
 
-###           App/Tool Specific Logs
+###    App/Tool Specific Logs    ###
 
 /var/log/apache2/access_log
 /var/log/apache2/access.log
@@ -314,7 +314,7 @@ List of Important Linux File Paths
 
 
 
-###           Temp and App Data
+###    Temp and App Data    ###
 
 /var/htmp
 /var/local/www/conf/php.ini
